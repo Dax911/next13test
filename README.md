@@ -1,3 +1,13 @@
+Just playing with the new Next.js 13
+
+This Project was generated with the command:
+```bash 
+npx create-next-app@latest --experimental-app
+```
+
+See this [Twitter](https://twitter.com/HaydenAylor/status/1585754396046282752?s=20&t=ml5BZ74ZcRrKZVLNLnk5bw) thread to see what we are up to if you wanna contribute.  Lol first ever project to be built by tweets.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
