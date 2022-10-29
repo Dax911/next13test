@@ -1,0 +1,12 @@
+app
+  layout.tsx <- renders header
+  champions
+    layout.tsx <- renders a flexbox layout with "sidebar" that gets flexed
+    page.tsx 
+    [championName]
+      page.tsx <- info about a single champion
+      imageComp.tsx 
+
+/champions/gruul 
+/champions
+/
